@@ -1,1 +1,1 @@
-tnks ALX
+ALX is great
